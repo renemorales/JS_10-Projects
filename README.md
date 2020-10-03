@@ -2,7 +2,7 @@
 
 ## Building 10 Mini JavaScript Projects
 
-* Hamburger Button
+* #### Hamburger Button
   * button + hamburger icon
   * menu > li > a -> hidden
   * toggle on click
