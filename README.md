@@ -13,3 +13,9 @@
   * toast design
   * button
   * click show random toast messege
+
+3. ### Auto Write Text
+  * text
+  * index
+  * show text based on index
+  * increment index
