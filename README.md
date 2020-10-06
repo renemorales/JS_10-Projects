@@ -20,9 +20,9 @@
   * show text based on index
   * increment index
 
-  4. ### Popup / Modal
-    * button
-    * click on button to activate popup
-    * popup container
-    * popup with text
-    * close btn popup with click event
+4. ### Popup / Modal
+  * button
+  * click on button to activate popup
+  * popup container
+  * popup with text
+  * close btn popup with click event
