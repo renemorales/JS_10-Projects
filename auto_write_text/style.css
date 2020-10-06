@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: sans-serif;
+  margin: 0;
+  min-height: 100vh;
+  background-color: rgba(14, 181, 223, 0.952);
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: aliceblue;
+}
