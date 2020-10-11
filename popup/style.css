@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: sans-serif;
+  margin: 0;
+  min-height: 100vh;
+}
+
+button {
+  background-color: darkgreen;
+  color: white;
+  font-family: inherit;
+  padding: 1rem;
+  border-radius: 5px;
+  border: none;
+}
+
+#container {
+  position: fixed;
+  top: 10%;
+  left: 35%;
+}
+
+.toast {
+  background-color: brown;
+  padding: 2rem;
+  border-radius: 5px;
+  color: whitesmoke;
+  font-weight: bold;
+  font-size: 16px;
+  margin: 1rem;
+}
