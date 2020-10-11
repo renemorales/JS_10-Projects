@@ -26,12 +26,47 @@ button {
   left: 35%;
 }
 
-.toast {
+button {
+  font-family: inherit;
   background-color: brown;
+  color: whitesmoke;
   padding: 2rem;
   border-radius: 5px;
-  color: whitesmoke;
+  border: none;
   font-weight: bold;
   font-size: 16px;
   margin: 1rem;
+}
+
+.popup-container {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.popup-container.activate {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.popup {
+  background-color: whitesmoke;
+  width: 500px;
+  padding: 2rem;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
+  position: relative;
+}
+
+.popup button {
+  background-color: whitesmoke;
+  color: rebeccapurple;
+  font-size: 2rem;
+  position: absolute;
+  top: -1rem;
+  right: 0;
 }
