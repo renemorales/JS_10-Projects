@@ -1,4 +1,4 @@
-# JS_10-Projects
+# JS_Projects
 
 [ Building 10 Mini JavaScript Projects ]
 
@@ -27,10 +27,10 @@
   * popup with text
   * close btn popup with click event
 
-  5. ### Purple Heart Rain
-    * heart css
-    * falling animation
-    * create heart
-    * add class
-    * add it to body
-    * interval
+5. ### Purple Heart Rain
+  * heart css
+  * falling animation
+  * create heart
+  * add class
+  * add it to body
+  * interval
